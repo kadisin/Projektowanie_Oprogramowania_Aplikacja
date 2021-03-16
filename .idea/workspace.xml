@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec4a3ba7-4d54-4e21-be36-50355e59b370" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mvys3PMx9B2u5RtShtS29QuptS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
+  </component>
+  <component name="RunManager" selected="Python.Start">
+    <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python">
+      <module name="projekt_v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Tomek\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/frontend/front-end" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/frontend/front-end/Main_Window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start" type="PythonConfigurationType" factoryName="Python">
+      <module name="projekt_v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Tomek\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/frontend/front-end" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/frontend/front-end/Start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MainWindow" />
+      <item itemvalue="Python.Start" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec4a3ba7-4d54-4e21-be36-50355e59b370" name="Default Changelist" comment="" />
+      <created>1610388562650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610388562650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610388793278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610388793278" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1611928589555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1611928589555" />
+    <state x="2468" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611656011316" />
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610388790019" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1611666889810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1611666889810" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611618173618" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610455742238" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1611666889810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1611666889810" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611618173618" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610455742237" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1611666889810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1611666889810" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611618173618" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610455742237" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1611666889810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1611666889810" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611618173618" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610455742238" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1611527146588">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611527146588" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610394105372" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1611527146588">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611527146588" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610394105372" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1611527146588">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611527146588" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610394105372" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1611527146588">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611527146588" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610394105372" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1611865268975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1611865268975" />
+    <state x="2385" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611656004827" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610446834146" />
+    <state x="2351" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611585832456">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2351" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1611585832456" />
+  </component>
+</project>
